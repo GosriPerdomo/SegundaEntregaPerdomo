@@ -1,0 +1,34 @@
+[
+  {
+    "name": "pad",
+    "price": 29.99,
+    "id": "4cd0dfe6-fb22-4853-8ea5-b0577a8c7e84"
+  },
+  {
+    "name": "tecladoi",
+    "price": 75,
+    "id": "cc3e3d6f-011c-410c-b090-861425ac0098"
+  },
+  {
+    "name": "teclado 2",
+    "price": 145,
+    "id": "bec8fc0f-438f-413f-a57a-337bb863298d"
+  },
+  {
+    "name": "teclado 4",
+    "price": 200,
+    "id": "c763309f-5907-40ba-a2bf-8d26bdc11ce7"
+  },
+  {
+    "id": "78ba9a53-8703-4bc7-b5b1-b410019f2337",
+    "name": "test",
+    "description": "3",
+    "price": 3
+  },
+  {
+    "id": "74e2e1a2-9383-462d-aedc-0d0f71d2bd04",
+    "name": "test",
+    "description": "rojo",
+    "price": 200
+  }
+]
